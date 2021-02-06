@@ -1,6 +1,6 @@
 # OnAirSign
 
-This is the Ardunio code for the on air sign I created that can be controlled via Amazon Echo via a ESP32 mircocontroll.
+This is the Arduino code for the on air sign I created that can be controlled via Amazon Echo via a ESP32 microcontroller.
 
 ![](http://www.makeratplay.com/assets/img/portfolio/thumbnails/43.jpg)
 
